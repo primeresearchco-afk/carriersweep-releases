@@ -1,10 +1,11 @@
 {
-  "build": "2026-09-06a",
+  "build": "2026-09-06b",
   "version": "1.0.0",
   "downloads": {
+    "win32-x64": "https://github.com/primeresearchco-afk/carriersweep-releases/releases/latest/download/CarrierSweep-windows-setup.exe",
     "darwin-arm64": "https://github.com/primeresearchco-afk/carriersweep-releases/releases/latest/download/CarrierSweep-mac-arm64.dmg",
     "darwin-x64": "https://github.com/primeresearchco-afk/carriersweep-releases/releases/latest/download/CarrierSweep-mac-intel.dmg"
   },
   "page": "https://carriersweep.vercel.app/#download",
-  "notes": "Intel Macs supported. First-launch note, Help with Copy diagnostics and Email support, banner when a newer build is out, plain message when Google Chrome is missing."
+  "notes": "Windows installer (first cut, cross-built on a Mac). Intel Macs. First-launch note, Help with Copy diagnostics and Email support, update banner, plain message when Google Chrome is missing."
 }
