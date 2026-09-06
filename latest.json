@@ -1,5 +1,5 @@
 {
-  "build": "2026-09-06c",
+  "build": "2026-09-06d",
   "version": "1.0.0",
   "downloads": {
     "win32-x64": "https://github.com/primeresearchco-afk/carriersweep-releases/releases/latest/download/CarrierSweep-windows-setup.exe",
@@ -7,5 +7,5 @@
     "darwin-x64": "https://github.com/primeresearchco-afk/carriersweep-releases/releases/latest/download/CarrierSweep-mac-intel.dmg"
   },
   "page": "https://carriersweep.vercel.app/#download",
-  "notes": "New first-open intro and a setup checklist that ticks off as you go."
+  "notes": "Your first run now reads your whole book out, by carrier."
 }
