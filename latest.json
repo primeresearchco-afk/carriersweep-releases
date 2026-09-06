@@ -1,0 +1,10 @@
+{
+  "build": "2026-09-06a",
+  "version": "1.0.0",
+  "downloads": {
+    "darwin-arm64": "https://github.com/primeresearchco-afk/carriersweep-releases/releases/latest/download/CarrierSweep-mac-arm64.dmg",
+    "darwin-x64": "https://github.com/primeresearchco-afk/carriersweep-releases/releases/latest/download/CarrierSweep-mac-intel.dmg"
+  },
+  "page": "https://carriersweep.vercel.app/#download",
+  "notes": "Intel Macs, first-run note, Help with diagnostics, update banner"
+}
