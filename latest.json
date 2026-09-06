@@ -6,5 +6,5 @@
     "darwin-x64": "https://github.com/primeresearchco-afk/carriersweep-releases/releases/latest/download/CarrierSweep-mac-intel.dmg"
   },
   "page": "https://carriersweep.vercel.app/#download",
-  "notes": "Intel Macs, first-run note, Help with diagnostics, update banner"
+  "notes": "Intel Macs supported. First-launch note, Help with Copy diagnostics and Email support, banner when a newer build is out, plain message when Google Chrome is missing."
 }
