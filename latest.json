@@ -1,5 +1,5 @@
 {
-  "build": "2026-09-06b",
+  "build": "2026-09-06c",
   "version": "1.0.0",
   "downloads": {
     "win32-x64": "https://github.com/primeresearchco-afk/carriersweep-releases/releases/latest/download/CarrierSweep-windows-setup.exe",
@@ -7,5 +7,5 @@
     "darwin-x64": "https://github.com/primeresearchco-afk/carriersweep-releases/releases/latest/download/CarrierSweep-mac-intel.dmg"
   },
   "page": "https://carriersweep.vercel.app/#download",
-  "notes": "Windows installer (first cut, cross-built on a Mac). Intel Macs. First-launch note, Help with Copy diagnostics and Email support, update banner, plain message when Google Chrome is missing."
+  "notes": "New first-open intro and a setup checklist that ticks off as you go."
 }
