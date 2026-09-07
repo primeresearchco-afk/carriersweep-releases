@@ -1,5 +1,5 @@
 {
-  "build": "2026-09-06d",
+  "build": "2026-09-06e",
   "version": "1.0.0",
   "downloads": {
     "win32-x64": "https://github.com/primeresearchco-afk/carriersweep-releases/releases/latest/download/CarrierSweep-windows-setup.exe",
@@ -7,5 +7,5 @@
     "darwin-x64": "https://github.com/primeresearchco-afk/carriersweep-releases/releases/latest/download/CarrierSweep-mac-intel.dmg"
   },
   "page": "https://carriersweep.vercel.app/#download",
-  "notes": "Your first run now reads your whole book out, by carrier."
+  "notes": "Royal Neighbors asks for your agent number in Credentials. Better diagnostics."
 }
