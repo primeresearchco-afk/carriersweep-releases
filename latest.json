@@ -1,5 +1,5 @@
 {
-  "build": "2026-09-06j",
+  "build": "2026-09-06k",
   "version": "1.0.0",
   "downloads": {
     "win32-x64": "https://github.com/primeresearchco-afk/carriersweep-releases/releases/latest/download/CarrierSweep-windows-setup.exe",
@@ -7,5 +7,5 @@
     "darwin-x64": "https://github.com/primeresearchco-afk/carriersweep-releases/releases/latest/download/CarrierSweep-mac-intel.dmg"
   },
   "page": "https://carriersweep.vercel.app/#download",
-  "notes": "The newer-build check now asks GitHub directly, so a fresh build shows up right away."
+  "notes": "Reopens its Chrome window by itself; fewer Keychain prompts on Mac."
 }
